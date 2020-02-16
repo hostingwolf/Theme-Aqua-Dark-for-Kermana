@@ -44,20 +44,27 @@ The stylesheet "responsive.css" contains the adjustments for the different scree
 The "imgs' folder content only images used on the theme "Aqua-Dark".
 
 ## Screenshots
-** Header **
+**Header**
 ![image](doc/assets/imgs/header.PNG)  
 
-** Featured **
+**Featured**
 ![image](doc/assets/imgs/featured.PNG)  
 
-** Newest **
+**Newest**
 ![image](doc/assets/imgs/newest.PNG)  
 
-** Welcome Footer **
+**Welcome Footer**
 ![image](doc/assets/imgs/welcomeandfooter.PNG)  
 
-** Details **
+**Details**
 ![image](doc/assets/imgs/details.PNG)  
+
+## Installation
+1. Installation is very simple, I assume that you already have the aquadark-master.zip on your computer.
+2. First, unzip the aquadark-master.zip somewhere in a folder on your desktop. Once unzipped, you should see 2 folders.
+The "aqua-dark" folder and the "doc folder".
+3. Take the aqua-dark folder and send it to your hosting space via ftp on this path: "domain/skins". That's all. The theme is now accessible from your Kermana-Directory administration.
+4. The folder "doc" are documentations for this theme.
 
 ## FAQs
 
