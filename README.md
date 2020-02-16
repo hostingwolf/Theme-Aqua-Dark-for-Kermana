@@ -86,6 +86,6 @@ Please don't forget to provide the details, the url of the problem and resolutio
 ## About
 This skin is a user contributed skin for Kemana Directory. Kemana is a flexible directory listing script which can be used for multiple purposes, such as: link directory, classified ads, school yearbook, product catalog, car dealers, real estate, and more.
 
-Original Author of this skin is hostingwolf - https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana
-Learn more about Kemana Directory - https://www.c97.net/kemana-the-ultimate-php-directory-script.php
+Original Author of this skin is hostingwolf - https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana  
+Learn more about Kemana Directory - https://www.c97.net/kemana-the-ultimate-php-directory-script.php  
 Download Kemana for Free - https://github.com/cunaedy/Kemana-Directory
