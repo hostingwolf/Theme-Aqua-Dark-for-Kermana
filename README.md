@@ -47,6 +47,17 @@ The "imgs' folder content only images used on the theme "Aqua-Dark".
 ** Header **
 ![image](doc/assets/imgs/header.PNG)  
 
+** Featured **
+![image](doc/assets/imgs/featured.PNG)  
+
+** Newest **
+![image](doc/assets/imgs/newest.PNG)  
+
+** Welcome Footer **
+![image](doc/assets/imgs/welcomeandfooter.PNG)  
+
+** Details **
+![image](doc/assets/imgs/details.PNG)  
 
 ## FAQs
 
