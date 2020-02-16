@@ -1,0 +1,112 @@
+/* 
+    Created on : 2020-01-22, 10:27:39
+    Author     : Hostingwolf
+    Web Site   : https://hostingwolf.ca/
+    Projet     : Info theme 
+    Style      : Info theme - theme1 for Kermana
+*/
+
+body {
+    background-color: black;
+    color: white; 
+    padding-bottom: 60px;
+    font-size: 20px;   
+}
+nav {
+    background-color: blue;    
+}
+nav a {
+    color: white;    
+}
+nav a:hover {
+    color: yellow;
+}
+h1 {
+    text-align: center;
+    color: aqua;
+}
+h2 {
+    text-align: center; 
+    color: aqua;
+}
+h3 {
+    text-align: center; 
+    color: aqua;
+}
+h4 {
+    color: aqua;    
+}
+h5 {
+    color: aqua;
+    font-weight: bold;
+}
+.img-struc {
+    width: 100%;
+}
+.box-struc {
+    margin-top: 20px;
+    border: 1px solid aqua;
+    padding: 6px;    
+}
+b {
+    color: gold;    
+}
+#totop {
+    display: inline-block;
+    background-color: rgba(0,255,255,0.3);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s, 
+        opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+}
+#totop::after {
+    content: "\f077";
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 50px;
+    color: #fff;
+}
+#totop:hover {
+    cursor: pointer;
+    background-color: aqua;  
+}
+#totop:active {
+    background-color: #555;
+}
+#totop.show {
+    opacity: 1;
+    visibility: visible;
+}
+.box-info {
+    border: 1px solid red;
+    padding: 7px;
+    margin-top: 10px;
+}
+.box-scrennshot {
+    border: 1px solid aqua;
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+.container-installation {
+    border: 1px solid red;
+    margin-top: 15px;    
+}
+.p-margin {
+    margin-left: 10px;
+}
+.note {
+    font-weight: bold;
+    color: yellow;
+}
+
+
