@@ -1,0 +1,74 @@
+/* 
+    Created on : 2020-01-22, 10:27:39
+    Author     : Hostingwolf
+    Web Site   : https://hostingwolf.ca/
+    Projet     : Kermana Directory
+    Style      : Aqua-Dark
+*/
+
+/*-------------------------------------------------Start responsive-------------------------------------------------------------------------*/
+@media all and (max-width: 1199px) {
+    .bt-submit-add-profil {
+        margin-left: 70px !important; 
+    }
+}
+@media all and (max-width: 991px) {
+    body {
+        padding-top: 100px;
+    }
+    #footer a {
+        font-size: 12px;
+    }
+}
+@media all and (max-width: 800px) {    
+    body {
+        padding-top: 110px;
+    } 
+    #welcome form {
+        width: 60%;
+        margin: auto;
+    }
+    select[multiple], select[size] {
+        margin-bottom: 5px;
+    }
+    .btn-primary {
+        margin-top: 10px;
+    }
+}
+@media all and (max-width: 767px) {
+    body {
+        padding-top: 50px;
+    }
+    .legend-contact {
+        border-bottom: none !important;
+        text-align: center !important;
+        font-weight: bold;
+    } 
+    .legend-responsive {
+        text-align: center;
+    }
+    .img-captcha-contact {
+        margin-left: -10px;
+    }
+    .table_div div div {
+        text-align: center;
+    }
+    .bt-submit-add-profil {
+        margin-left: 15px !important;
+    }
+    #footer {        
+    background-image: linear-gradient(to top, grey 0%, black 50%);
+    }
+}
+@media all and (max-width: 600px) {    
+    body {
+        padding-top: 55px;
+    }  
+    .cat_list > div > div:hover {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+}
+/*-------------------------------------------------------end responsive---------------------------------------------------------------------------*/
+

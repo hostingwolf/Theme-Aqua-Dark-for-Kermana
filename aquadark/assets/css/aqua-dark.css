@@ -1,0 +1,813 @@
+/* 
+    Created on : 2020-01-22, 10:27:39
+    Author     : Hostingwolf
+    Web Site   : https://hostingwolf.ca/
+    Projet     : Kermana Directory
+    Style      : aqua-dark
+*/
+
+/*Start fonts*/
+/*company name*/
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great&display=swap');
+
+/*h1 welcome*/
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+/*h1 add init*/
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+
+/*button submit add listing*/
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+
+/*Name in Profil*/
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great&display=swap');
+/*End fonts*/
+
+/*Start general*/
+p {
+    color: white;
+}
+p a:hover {
+    color: aqua;
+}
+/*End general*/
+
+/*Start Modal*/
+#cboxContent {
+    background-color: grey !important;
+}
+
+/*Start home and header*/
+body {
+    padding-top: 60px;    
+    background-image: url(../imgs/bg-main.png);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+.navbar-inverse {
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    background-color: rgba(0,255,255,0.6);
+    -webkit-transition: background-color 0.5s ease-out;
+    -moz-transition: background-color 0.5s ease-out;
+    -o-transition: background-color 0.5s ease-out;
+    transition: background-color 0.5s ease-out;
+    border-top: 1px solid aqua;
+    border-bottom: 1px solid aqua;
+}
+.navbar-inverse:hover {
+    background-color: black;  
+}
+.navbar-inverse .navbar-nav > li > a {
+    -webkit-transition: background-color 0.5s ease-out;
+    -moz-transition: background-color 0.5s ease-out;
+    -o-transition: background-color 0.5s ease-out;
+    transition: background-color 0.5s ease-out;
+    color: white;
+    font-weight: bold;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: gray;
+}
+.navbar-link {
+    color: gold !important;
+    background-color: black;
+    padding: 7px;
+    border-radius: 7px;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+.navbar-link:hover {
+    background-color: aqua;
+    color: black !important;
+    text-decoration: none;
+}
+.navbar-nav > li > .dropdown-menu {
+    background-color: rgba(255,255,255,0.6);
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+    background-color: goldenrod;
+    color: black;
+}
+.dropdown-menu > li > a {
+    background-color: black;
+    color: white;
+}
+.dropdown-menu > li > a:hover {
+    background-color: aqua;
+}
+.brand-logo img {
+    max-width: 250px;
+    max-height: 125px;
+}
+.h4-head {
+    text-align: center;
+    color: white;
+    font-family: 'Fredericka the Great', cursive;
+    text-shadow: 9px 7px 7px aqua, 7px 7px 15px aqua;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.marquee-text-head {    
+    max-width: 300px;
+    margin: auto;
+}
+.marquee-text-head marquee {
+    color: white;        
+}
+/*End home and header*/
+
+/*start slider*/
+.nivoSlider {
+    border-radius: 15px;   
+    max-width: 90%;
+    margin: auto;
+    border: 1px solid aqua;
+}
+.nivo-caption {    
+    border-top: 1px solid white;
+}
+.nivo-controlNav{
+    background-color: black;    
+}
+/*End slider*/
+
+/*Start welcome home page*/
+#welcome {
+    background-color: rgba(142,125,125,0.6);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 1px solid aqua;    
+}
+.h1-featured {
+    color: black !important;
+    text-shadow: 0 -1px 4px white, 0 -2px 10px aqua, 0 -10px 20px aqua, 0 -18px 40px white;
+}
+#welcome_feat {
+    -webkit-box-shadow: inset 0px -3px 100px 3px rgba(0,255,255,0.75);
+    -moz-box-shadow: inset 0px -3px 100px 3px rgba(0,255,255,0.75);
+    box-shadow: inset 0px -3px 100px 3px rgba(0,255,255,0.75); 
+    border-radius: 12px;
+    border: 1px solid white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.glyphicon-th-list {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: aqua;
+}
+select[multiple], select[size] {
+    background-color: black;
+    color: aqua;
+}
+#welcome form input {
+    background-color: black;
+    color: aqua;
+}
+.bt-search {
+    background-color: black;
+}
+.bt-search:hover {
+    background-color: gray;
+}
+#welcome h1 {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    color: window;    
+}
+#welcome_new {
+    -webkit-box-shadow: inset 0px -3px 100px 3px rgba(255,255,255,0.75);
+    -moz-box-shadow: inset 0px -3px 100px 3px rgba(255,255,255,0.75);
+    box-shadow: inset 0px -3px 100px 3px rgba(255,255,255,0.75);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 12px;
+    border: 1px solid aqua;
+}
+.cat_list > div > div {
+    color: white;
+    -webkit-box-shadow: inset 0px -3px 56px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px -3px 56px 3px rgba(0,0,0,0.75);
+    box-shadow: inset 0px -3px 56px 3px rgba(0,0,0,0.75);
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+.cat_list > div > div:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 9999;
+} 
+.cat_list > div > div a {
+    color: aqua;
+    -webkit-transition: all 0.5s ease-out !important;
+    -moz-transition: all 0.5s ease-out !important;
+    -o-transition: alll 0.5s ease-out !important;
+    transition: all 0.5s ease-out !important;
+}
+.cat_list > div > div a:hover {
+    color: aquamarine;
+    font-weight: bold;
+}
+.gridbox_img {
+    background-color: transparent;
+    border: none;
+}
+.list_sponsored {
+    background-color: goldenrod !important;
+    border-radius: 8px;
+    border: 1px solid aqua !important;
+    -webkit-box-shadow: 1px 2px 27px -3px rgba(0,255,255,0.6);
+    -moz-box-shadow: 1px 2px 27px -3px rgba(0,255,255,0.6);
+    box-shadow: 1px 2px 27px -3px rgba(0,255,255,0.6);
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: alll 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+.list_sponsored:hover {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    -webkit-box-shadow: 7px 8px 27px 5px rgba(0,255,255,0.6);
+    -moz-box-shadow: 7px 8px 27px 5px rgba(0,255,255,0.6);
+    box-shadow: 7px 8px 27px 5px rgba(0,255,255,0.6);
+}
+.list_premium {
+    border-radius: 8px;
+    border: 1px solid aqua;
+    -webkit-box-shadow: 1px 2px 27px -3px rgba(0,255,255,0.6);
+    -moz-box-shadow: 1px 2px 27px -3px rgba(0,255,255,0.6);
+    box-shadow: 1px 2px 27px -3px rgba(0,255,255,0.6);
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: alll 0.5s ease-out;
+}
+.list_premium:hover {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    -webkit-box-shadow: 7px 8px 27px 5px rgba(0,255,255,0.6);
+    -moz-box-shadow: 7px 8px 27px 5px rgba(0,255,255,0.6);
+    box-shadow: 7px 8px 27px 5px rgba(0,255,255,0.6);
+}
+.list_regular {
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid black;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: alll 0.5s ease-out;
+}
+.list_regular:hover {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+}
+.gridbox_txt {
+    background-color: black;    
+    padding: 7px;
+    margin-bottom: 10px;
+    max-height: 160px;
+    border-radius: 8px;
+}
+.gridbox_txt a {
+    color: aqua;
+}
+.rating .glyphicon-star.empty {
+    color: gray;
+}
+.page_gallery {
+    color: white;
+    -webkit-box-shadow: inset 0px -3px 56px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px -3px 56px 3px rgba(0,0,0,0.75);
+    box-shadow: inset 0px -3px 56px 3px rgba(0,0,0,0.75);
+    padding: 7px;    
+}
+#welcome h3 {
+    color: gold;
+}
+.list_1 {
+    color: aqua;
+}
+.list_1 a {
+    color: goldenrod;
+}
+.list_1 a:hover {
+    color: aqua;
+}
+/*End welcome home page*/
+#body_left {
+    background-color: rgba(142,125,125,0.6); 
+    border-radius: 12px;
+    border: 1px solid aqua;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.breadcrumb {
+    background-color: black;
+} 
+.glyphicon_home {
+    color: aqua !important;
+}
+.h1-add {
+    color: window;
+    font-family: 'Dosis', sans-serif;    
+}
+.box-thumb {
+    background-color: #0c9e94;
+    padding-top: 15px;    
+}
+.box-thumb a img {
+    border-radius: 12px;
+    transition:all 0.3s ease;
+
+}
+.box-thumb a img:hover {
+    -webkit-transform: rotateZ(-30deg);
+    -ms-transform: rotateZ(-30deg);
+    transform: rotateZ(-30deg);
+}
+.dir_select .dir_desc {
+    max-height: 150px;
+    font-size: 20px;
+}
+.bt-div {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.bt-add {
+    width: 100%;
+    background-color: blue;
+}
+.bt-add:hover {
+    background-color: gray;
+} 
+#body_right {
+    background-color: rgba(142,125,125,0.6);  
+    border-radius: 12px;
+    border: 1px solid aqua;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+#body_right h3 {
+    color: white;
+    text-align: center;
+}
+.body_right_content {
+    color: black;  
+    padding-right: 3px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    border-radius: 8px;  
+    border: 1px solid black;
+    margin-bottom: 7px;
+    -webkit-box-shadow: inset 3px -2px 126px -19px rgba(15,219,188,1);
+    -moz-box-shadow: inset 3px -2px 126px -19px rgba(15,219,188,1);
+    box-shadow: inset 3px -2px 126px -19px rgba(15,219,188,1);
+}
+.body_right_content form {
+    text-align: center;
+} 
+.btn-primary {
+    color: aqua; 
+    background-color: black;
+}
+.btn-primary:hover {
+    background-color: aqua;
+    color: black;
+} 
+#search_filter_form {
+    margin-bottom: 15px;
+}
+
+.form-add {
+    background-color: #888888 ;
+    color: black;
+    border-color: aqua;
+}
+.heading-captcha {
+    background-color: black !important;
+    color: goldenrod !important;
+}
+.panel-captcha-add {
+    background-color: #66512c;
+    color: white;
+    padding-bottom: 15px;
+}
+.box-captha {
+    text-align: center;   
+}
+.box-captha p {
+    font-size: 20px;
+}
+.img-captcha {
+    margin-bottom: 10px;
+}
+.bt-submit-add {
+    width: 80%;
+    font-family: 'Bangers', cursive;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: goldenrod; 
+    border-color: black;
+    transition:all 0.5s ease;
+}
+.bt-submit-add:hover {
+    background-color: black;
+    color: goldenrod;
+    border-color: goldenrod;
+    -webkit-box-shadow: 0px 0px 54px 22px rgba(181,139,22,1);
+    -moz-box-shadow: 0px 0px 54px 22px rgba(181,139,22,1);
+    box-shadow: 0px 0px 54px 22px rgba(181,139,22,1);
+}
+/*End add listings front*/
+
+/*Start details view*/
+.breadcrumb li a {
+    color: gold;    
+}
+.breadcrumb li a:hover {
+    text-decoration: none;
+    color: goldenrod;
+    font-weight: bold;
+}
+.h1-details {
+    color: aqua;
+    text-align: center;
+    text-shadow: 1px 1px 1px white, 3px 3px 5px black;
+}
+.wrap-details {
+    background-color: rgba(255,255,255,0.3);
+    padding-bottom: 15px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+.wrap-details div {
+    text-align: center;
+}
+.wrap-details div img {
+    border-radius: 8px;
+    border: 1px solid aqua;
+    margin-top: 10px;
+}
+.p-details {
+    background-color: rgba(0,0,0,0.6);
+    padding: 7px; 
+    min-height: 50px;
+    border-radius: 12px;
+    border: 1px solid aqua;
+}
+.wrap-details a {
+    color: white;
+}
+.wrap-details a:hover {
+    color: #761c19;
+    font-weight: bold;    
+} 
+.h2-details {
+    color: white;  
+    text-shadow: 1px 1px 1px aqua, 3px 3px 5px black;
+}
+.list-group-item {
+    background-color: black !important;
+    border: 1px solid aqua;
+    color: white;
+}
+a.list-group-item, button.list-group-item {
+    color: gold !important;
+}
+#qcomment {
+    padding-top: 3px;
+    padding-left: 6px;
+    border: 1px solid white;
+    background-color: black;
+    margin-bottom: 10px;
+}
+#qcomment h3 {
+    color: aqua;
+}
+#qcomment p {
+    color: gold;
+}
+.comment_box_right {
+    color: white;
+}
+.comment_title {
+    color: gold;
+}
+.bg-danger {
+    background-color: red;
+    color: white;
+}
+.comment_box_left {
+    color: goldenrod;
+}
+/*End details view*/
+
+/*Start listing search*/
+.befor-p {
+    min-height: 50px;
+    background-color: rgba(0,0,0,0.6);
+    padding: 7px;
+    margin-bottom: 10px;
+}
+.foot-search-listing {
+    background-color: black;
+    border: 1px solid red;
+    padding: 7px;
+    color: white;
+    margin-bottom: 10px;
+}
+/*End listing search*/
+
+/*Start sitemap*/
+.glyphicon-tree-conifer {
+    color: gold;    
+}
+.list_2 li a {
+    color:aquamarine;    
+}
+.list_2 li a:hover {
+    color: aqua;
+    text-decoration: none;
+    font-weight: bold;
+}
+.list_2 li::before {
+    color: whitesmoke;
+}
+/*End sitemap*/
+
+/*Start pages*/
+#main-page {
+    background-color: rgba(0,0,0,0.6);
+    padding: 7px;border-radius: 10px;
+    border: 1px solid aqua;
+    color: white;
+}
+#main-page h1, h2, h3, h4, h5, a {
+    color: goldenrod;    
+}
+#body_left h1, h2, h3, h4, h5 {
+    color: aqua;
+}
+#body_left div div div {
+    color: white;
+    padding-top: 7px;
+
+}
+#body_left div div div span {
+    color: goldenrod;
+}
+#page_info div {
+    color: gold;
+}
+#page_info div a {
+    color: #fff;
+}
+#page_info div a:hover {
+    color: goldenrod;
+    text-decoration: none;
+    font-weight: bold;
+}
+.list-group-aqua-dark {
+    background-color: black !important;
+    color: white !important;
+}
+#qcomment a {
+    color: goldenrod;    
+}
+#qcomment a:hover {
+    color: gold;
+}
+/*End pages*/
+
+/*Start page list*/
+.panel-aquadark {
+    background: linear-gradient(0.25turn, black, grey, black);
+    border-color: aqua; 
+    color: white;
+}
+.panel-head-aqua {
+    background: linear-gradient(217deg, rgba(0,0,0,.8), rgba(0,0,0,0) 70.71%),
+        linear-gradient(127deg, rgba(0,0,0,.8), rgba(0,0,0,0) 70.71%),
+        linear-gradient(336deg, rgba(0,0,0,.8), rgba(0,0,0,0) 70.71%);
+    color: gold !important;
+}
+.link-list a {
+    color: aqua;
+    transition:all 0.5s ease;
+}
+.link-list a:hover {
+    color: gold;
+    font-weight: bold;
+    border: 1px solid gold;
+    background-color: black;
+    border-radius: 7px;
+    padding: 7px;
+    text-decoration: none;
+} 
+/*End page list*/
+
+/*Start contact */
+.siteadress {
+    background-color: black;
+    color:white;
+    margin: auto;
+    max-width: 400px; 
+    border-radius: 8px;
+    border: 1px solid aqua;
+}
+.siteadress div {
+    text-align: center;
+}
+.legend-contact {
+    color: aqua;
+    border-bottom: 1px solid aqua !important;
+}
+.h3-contact {
+    text-align: center;
+    color: white;    
+}
+.img-captcha-contact {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+/*End contact*/
+
+/*Start Rgister*/
+.h1-register {
+    text-align: center;
+    text-shadow: black 2px 0 0px;
+}
+.btn-register {
+    background-color: black;
+    color: gold;
+    padding: 8px;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    font-size: 20px;   
+    transition: all 0.5s ease-in-out;  
+}
+.btn-register:hover {
+    color: black;
+    background-image: -webkit-linear-gradient( black,gold, black); 
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 8px;  
+} 
+.no-account {
+    margin-bottom: 20px;
+}
+.bt-no-account {
+    background-color: rgba(0,255,255,0.6);
+    color: black;
+}
+/*End  register*/
+
+/*Start login*/
+.p-text-login {
+    color: white;
+    text-align: center;    
+}
+.link-passw {
+    color: wheat;
+}
+.link-passw:hover {
+    color: white;
+    font-weight: bold;
+}
+.bt-regist {
+
+}
+/*End login*/
+
+/*Start account*/
+.h1-account {
+    text-align: center;
+    text-shadow: white 2px 0 0px;
+}
+.a-my-account {
+    display: inline-block;
+    color: aqua;  
+    transition: all 0.7s ease-in-out;    
+}
+.a-my-account:hover {
+    text-shadow: aqua 1px 0 10px;
+    color: gold;
+    -webkit-transform: rotateY(360deg);
+    transform: rotateY(360deg);
+    text-decoration: none;
+}
+.box-link-account {
+    background-color: rgba(0,0,0,0.5);
+    padding: 7px;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid aqua; 
+    margin-bottom: 10px;
+}
+/*End account*/
+
+/*Start my profile*/
+.bt-submit-add-profil {
+    width: 200px !important; 
+    margin: auto !important;
+    font-size: 20px;
+    font-weight: bold;
+    color: aqua;
+    background-color: black;
+    border-radius: 12px;
+    border: none;
+    transition: all 0.5s ease-in-out; 
+}
+.bt-submit-add-profil:hover {
+    background-color: transparent;
+    color: black;
+    border: 1px solid aqua;
+} 
+.color-username-profile {
+    color: aqua;
+    font-size: 30px;   
+    font-family: 'Fredericka the Great', cursive;
+    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+}
+/*End my profile*/
+
+/*Start Back to top*/
+#totop {
+    display: inline-block;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s, 
+        opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+}
+#totop::after {
+    content: "\f077";
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 50px;
+    color: #fff;
+}
+#totop:hover {
+    cursor: pointer;
+    background-color: black;  
+}
+#totop:active {
+    background-color: #555;
+}
+#totop.show {
+    opacity: 1;
+    visibility: visible;
+}
+/*End Back to top*/
+
+/*Start footer*/
+#footer {
+    margin-top: 30px;
+    border-top: 1px solid aqua; 
+    background-image: linear-gradient(to top, aqua 0%, black 50%);
+}
+#footer a {
+    color: gold !important;
+    transition:all ease-in-out  0.5s !important;
+}
+#footer a:hover {
+    color: aqua !important;
+    text-decoration: none;     
+} 
+#footer_content li a, #footer_content li {
+    color: goldenrod;        
+}
+#footer p {
+    color: aqua;    
+}
+/*End footer*/
