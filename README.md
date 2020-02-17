@@ -18,3 +18,4 @@ This theme was designed based on the theme (default). I found that the layout is
 
 9- I modified the right of the owner of the site, now only the name of the site appears without the slogan of the site.
 The slogan is present in the header in a scrolling and very visible text. 
+# STRUCTURE
