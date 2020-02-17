@@ -7,6 +7,7 @@ This theme was designed based on the theme (default). I found that the layout is
 1- I opted for a fixed position on the top menu. (The menu is now accessible at all times.
 
 2- I took out the logo from the top menu. (The logo was too small for my taste.) The logo and the text can be added from the administration. I used the footer and navbar php. 
+
 3- I built a mini header under the menu to put the logo and brand site on it. Add tag title on logo, the brand title in center.
 
 4- I adding background images in png. I fixed the image to give an effect. The site seems to slide on the image. The image adapts to all screen resolutions.
