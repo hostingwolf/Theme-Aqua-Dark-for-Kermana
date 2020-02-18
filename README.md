@@ -1,5 +1,4 @@
-Test link blank
-[C97.net](https://github.com/cunaedy/Kemana-Directory/){target="_blank"}
+
 
 # Infos for Aqua-Dark. Theme for Kermana 
 ### Notes: This theme was developed for the Kermana-Directory script. If you don't have this script, you can visit <a href="https://github.com/cunaedy/Kemana-Directory">C97.net</a> before using this theme.
