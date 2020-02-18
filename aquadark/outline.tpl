@@ -75,7 +75,7 @@
                         </li>
                     </ul>
                     <!-- ELSE -->
-                    <p class="navbar-text  navbar-right"> <!-- <a href="{$site_url}/profile.php?redir={$current_url}" class="navbar-link">{$l_login_register}</a> --></p>
+                    <p class="navbar-text  navbar-right"> <a href="{$site_url}/profile.php?redir={$current_url}" class="navbar-link">{$l_login_register}</a></p>
                     <!-- ENDIF -->
 
                 </div>
