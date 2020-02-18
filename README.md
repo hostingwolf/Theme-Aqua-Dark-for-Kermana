@@ -39,5 +39,7 @@ The assets folder contains the files and folders necessary for the Aqua-Dark the
  The "aqua-dark.css" content all colors and effect for the theme. </br>
  The stylesheet "custom.css" are empty. You can add your style in this stylesheet, its for you. </br>
  The stylesheet "responsive.css" contains the adjustments for the different screen resolutions. 
+ #### Folder "imgs"
+ 
  
 
