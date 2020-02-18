@@ -35,7 +35,9 @@ The assets folder contains the files and folders necessary for the Aqua-Dark the
  
  #### File "css"
  <img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/css.PNG'>
- This file content all stylesheets for the theme "aqua-dark". The "aqua-dark.css" content all colors and effect for the theme.
+ This file content all stylesheets for the theme "aqua-dark". 
+ 
+ The "aqua-dark.css" content all colors and effect for the theme.
 
 The stylesheet "custom.css" are empty. You can add your style in this stylesheet, its for you.
 
