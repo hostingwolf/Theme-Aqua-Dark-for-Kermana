@@ -57,6 +57,7 @@ The width of the logo is automatically set to a maximum width of 250px.
 The height of the logo is automatically set to a maximum height of 150px.
 
 You can ajust size in css in class "brand-logo img" for your need. 
+## Others projets for Kermana?
  
  
  
