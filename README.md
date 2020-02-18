@@ -58,6 +58,11 @@ The height of the logo is automatically set to a maximum height of 150px.
 
 You can ajust size in css in class "brand-logo img" for your need. 
 ## Others projets for Kermana?
+Yes, But the priority is to correct any bugs in this theme.
+
+If you are aware of some bugs, please send an email to "contact@hostingwolf.ca" and i update.
+
+Please don't forget to provide the details, the url of the problem and resolution screen. 
  
  
  
