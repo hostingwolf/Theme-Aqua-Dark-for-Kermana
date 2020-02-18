@@ -75,7 +75,7 @@ Please don't forget to provide the details, the url of the problem and resolutio
 <img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/welcomeandfooter.PNG'>
 
 ### Details
-<img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/welcomeandfooter.PNG'>
+<img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/details.PNG'>
 
 ## Installation
 
