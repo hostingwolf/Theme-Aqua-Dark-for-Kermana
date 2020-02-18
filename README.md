@@ -41,6 +41,8 @@ The assets folder contains the files and folders necessary for the Aqua-Dark the
  The stylesheet "responsive.css" contains the adjustments for the different screen resolutions. 
  
  #### Folder "imgs"
+ <img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/imgs.PNG'>
+ The "imgs' folder content only images used on the theme "Aqua-Dark".
  
  
 
