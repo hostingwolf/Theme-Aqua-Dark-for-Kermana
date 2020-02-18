@@ -70,6 +70,9 @@ Please don't forget to provide the details, the url of the problem and resolutio
 ### Featured
 <img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/featured.PNG'>
 
+### Newest
+<img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/newest.PNG'>
+
  
  
  
