@@ -23,4 +23,4 @@ The slogan is present in the header in a scrolling and very visible text.
 ## STRUCTURE
 Some folders and files have been added to facilitate customization of the Aqua - Dark theme. It's easier to edit from the theme root. Here are the details of the structure.
 ### Note: Do not delete these folders or files, they are necessary to make the theme look.
-| ------ | ------ |
+
