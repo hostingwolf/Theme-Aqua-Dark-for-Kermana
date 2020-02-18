@@ -24,7 +24,7 @@ The slogan is present in the header in a scrolling and very visible text.
 Some folders and files have been added to facilitate customization of the Aqua - Dark theme. It's easier to edit from the theme root. Here are the details of the structure.
 ### Note: Do not delete these folders or files, they are necessary to make the theme look.
 
-#### Aqua-Dark
+#### Folder "Aqua-Dark"
 <img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/aquadark.PNG'>
 
 In the Aqua-Dark theme, you will find 1 new file. The file "assets".
