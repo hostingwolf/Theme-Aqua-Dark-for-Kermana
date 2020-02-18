@@ -92,7 +92,7 @@ The folder "doc" are documentations for this theme.
 
 Enjoy, its free
 
-This theme are designed by <a href='hostingwolf.ca'>HostingWolf</a> for <a href="https://www.c97.net/index.php">C97.net</a>
+This theme are designed by <a href='hostingwolf.ca'>HostingWolf</a> for <a href="https://www.c97.net/index.php">C97.net</a> You need <a href="https://www.c97.net/kemana-the-ultimate-php-directory-script.php"> Kemana: The Ultimate PHP Directory Script for running this theme</a>
  
  
 
