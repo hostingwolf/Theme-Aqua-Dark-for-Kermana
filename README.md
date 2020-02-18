@@ -89,6 +89,10 @@ The "aqua-dark" folder and the "doc folder".
 Take the aqua-dark folder and send it to your hosting space via ftp on this path: "domain/skins". That's all. The theme is now accessible from your Kermana-Directory administration.
 
 The folder "doc" are documentations for this theme.  
+
+Enjoy, its free
+
+This theme are designed by <a href='hostingwolf.ca'>HostingWolf</a>for <a href="https://www.c97.net/index.php">C97.net</a>
  
  
 
