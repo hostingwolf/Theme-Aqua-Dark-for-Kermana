@@ -63,6 +63,8 @@ Yes, But the priority is to correct any bugs in this theme.
 If you are aware of some bugs, please send an email to "contact@hostingwolf.ca" and i update.
 
 Please don't forget to provide the details, the url of the problem and resolution screen. 
+## Screenshots
+
  
  
  
