@@ -50,6 +50,13 @@ The assets folder contains the files and folders necessary for the Aqua-Dark the
 Since I use the script and having the necessary knowledge, I wanted to get involved and offer a little life to its script.
 
 I will do other themes in the future. 
+
+## What is the size of the logo?
+The width of the logo is automatically set to a maximum width of 250px.
+
+The height of the logo is automatically set to a maximum height of 150px.
+
+You can ajust size in css in class "brand-logo img" for your need. 
  
  
  
