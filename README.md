@@ -1,4 +1,3 @@
-# In edition, sorry
 # Theme-Aqua-Dark for-Kermana
 # Infos for Aqua-Dark
 ### Notes: This theme was developed for the Kermana-Directory script. If you don't have this script, you can visit <a href="https://github.com/cunaedy/Kemana-Directory" target="_blank">C97.net</a> before using this theme.
