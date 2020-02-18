@@ -81,7 +81,14 @@ Please don't forget to provide the details, the url of the problem and resolutio
 
 ## Installation
 
- 
+Installation is very simple, I assume that you already have the aquadark-master.zip on your computer.
+
+First, unzip the aquadark-master.zip somewhere in a folder on your desktop. Once unzipped, you should see 2 folders.
+The "aqua-dark" folder and the "doc folder".
+
+Take the aqua-dark folder and send it to your hosting space via ftp on this path: "domain/skins". That's all. The theme is now accessible from your Kermana-Directory administration.
+
+The folder "doc" are documentations for this theme.  
  
  
 
