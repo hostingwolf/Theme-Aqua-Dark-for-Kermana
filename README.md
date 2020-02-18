@@ -29,5 +29,5 @@ Some folders and files have been added to facilitate customization of the Aqua -
 
 In the Aqua-Dark theme, you will find 1 new file. The file "assets".
 The assets folder contains the files and folders necessary for the Aqua-Dark theme style.
-
+#### Folder "assets"
 
