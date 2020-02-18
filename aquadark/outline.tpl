@@ -11,12 +11,12 @@
         <link rel="stylesheet" type="text/css" href="{$site_url}/skins/_common/default.css"/>
         <link rel="stylesheet" type="text/css" href="{$site_url}/skins/_common/jscripts.css"/>
         <link rel="stylesheet" type="text/css" href="{$site_url}/skins/default/style.css" />
-        <!-- Start style theme1 -->
-        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aqua-dark/assets/css/aqua-dark.css" />  
-        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aqua-dark/assets/css/custom.css" />  
-        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aqua-dark/assets/css/responsive.css" />          
+        <!-- Start style aquadark -->
+        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aqua-dark/assets/css/aquadark.css" />  
+        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aquadark/assets/css/custom.css" />  
+        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aquadark/assets/css/responsive.css" />          
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <!-- End style theme1 -->
+        <!-- End style aquadark -->
         {$module_css_list}
         <link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
         <link rel="shortcut icon" type="image/x-icon" href="{$favicon}" />
@@ -157,7 +157,7 @@
             });
         </script>
         <!-- script back to top -->
-        <script type="text/javascript" src="{$site_url}/skins/aqua-dark/assets/js/back-to-top.js"></script>
+        <script type="text/javascript" src="{$site_url}/skins/aquadark/assets/js/back-to-top.js"></script>
         <!-- End script back to top -->
 
     </body>
