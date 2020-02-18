@@ -64,6 +64,8 @@ If you are aware of some bugs, please send an email to "contact@hostingwolf.ca" 
 
 Please don't forget to provide the details, the url of the problem and resolution screen. 
 ## Screenshots
+#### Header
+<img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/header.PNG'>
 
  
  
