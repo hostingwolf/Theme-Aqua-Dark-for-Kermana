@@ -66,6 +66,8 @@ Please don't forget to provide the details, the url of the problem and resolutio
 ## Screenshots
 #### Header
 <img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/header.PNG'>
+### Featured
+
 
  
  
