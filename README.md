@@ -44,5 +44,13 @@ The assets folder contains the files and folders necessary for the Aqua-Dark the
  <img src='https://github.com/hostingwolf/Theme-Aqua-Dark-for-Kermana/blob/master/doc/assets/imgs/imgs.PNG'>
  The "imgs' folder content only images used on the theme "Aqua-Dark".
  
+ ## Why this theme?
+ Kermana-Directory is a great script. The developer has worked very hard to offer a quality script.
+
+Since I use the script and having the necessary knowledge, I wanted to get involved and offer a little life to its script.
+
+I will do other themes in the future. 
+ 
+ 
  
 
