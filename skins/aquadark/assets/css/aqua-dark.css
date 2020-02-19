@@ -224,6 +224,8 @@ select[multiple], select[size] {
     background-color: transparent;
     border: none;
 }
+.gridbox_img div {
+    text-align: center;
 .list_sponsored {
     background-color: goldenrod !important;
     border-radius: 8px;
