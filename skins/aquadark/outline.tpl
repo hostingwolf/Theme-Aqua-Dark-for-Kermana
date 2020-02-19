@@ -12,9 +12,9 @@
         <link rel="stylesheet" type="text/css" href="{$site_url}/skins/_common/jscripts.css"/>
         <link rel="stylesheet" type="text/css" href="{$site_url}/skins/default/style.css" />
         <!-- Start style theme1 -->
-        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aqua-dark/assets/css/aqua-dark.css" />  
-        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aqua-dark/assets/css/custom.css" />  
-        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aqua-dark/assets/css/responsive.css" />          
+        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aquadark/assets/css/aqua-dark.css" />  
+        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aquadark/assets/css/custom.css" />  
+        <link rel="stylesheet" type="text/css" href="{$site_url}/skins/aquadark/assets/css/responsive.css" />          
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <!-- End style theme1 -->
         {$module_css_list}
@@ -157,7 +157,7 @@
             });
         </script>
         <!-- script back to top -->
-        <script type="text/javascript" src="{$site_url}/skins/aqua-dark/assets/js/back-to-top.js"></script>
+        <script type="text/javascript" src="{$site_url}/skins/aquadark/assets/js/back-to-top.js"></script>
         <!-- End script back to top -->
 
     </body>
