@@ -13,7 +13,7 @@
     <h1>{$l_browse}</h1>
     <div class="row cat_list">
         <!-- BEGINBLOCK cat_list -->
-        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
             <div><a href="{$cat_url}"><img src="{$cat_image}" class="pull-left"></a> {$cat_name} <i>({$cat_num_link} items)</i><div>{$cat_sub_list}</div></div>
         </div>
         <!-- ENDBLOCK -->
