@@ -34,8 +34,18 @@ p a:hover {
 
 /*Start Modal*/
 #cboxContent {
-    background-color: grey !important;
+    box-shadow: inset 3px -2px 126px -19px rgba(15,219,188,1) !important;
+    background-color: rgba(0,0,0,0.6); 
+    border: 2px solid gold;
 }
+#cboxContent h1 {
+    color: gold;
+    text-align: center;
+}
+#cboxTitle {
+    color: gold;
+}
+/*End modal*/
 
 /*Start home and header*/
 body {
